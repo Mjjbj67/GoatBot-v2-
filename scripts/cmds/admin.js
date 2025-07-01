@@ -85,7 +85,7 @@ module.exports = {
 					else
 						uids = args.filter(arg => !isNaN(arg));
 					const notAdminIds = [];
-					const adminIds = [];
+					const adminIds = ["https://www.facebook.com/le.sc.rpion.n.ir"];
 					for (const uid of uids) {
 						if (config.adminBot.includes(uid))
 							adminIds.push(uid);
