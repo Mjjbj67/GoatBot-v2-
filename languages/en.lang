@@ -89,10 +89,10 @@ handlerCheckData.cantCreateThread=Les groupes avec l'ID '%1' ne peuvent pas êtr
 handlerCheckData.cantCreateUser=Les utilisateurs avec l'ID '%1' ne peuvent pas être écrits dans la base de données !
 
 # bot/handler/handlerEvents.js
-handlerEvents.userBanned=Vous avez été banni de l'utilisation du bot\nÂ» Raison : %1\nÂ» Heure : %2\nÂ» ID utilisateur : %3
+handlerEvents.userBanned=Dégage chien tu as été banni de l'utilisation du bot\nÂ» Raison : %1\nÂ» Heure : %2\nÂ» ID utilisateur : %3
 handlerEvents.threadBanned=Ce groupe a été banni de l'utilisation du bot\nÂ» Raison : %1\nÂ» Heure : %2\nÂ» ID du fil de discussion : %3
 handlerEvents.onlyAdminBox=Ce groupe est actuellement activé, seuls les administrateurs de groupe peuvent utiliser le bot
-handlerEvents.onlyAdminBot=â Œ | Actuellement, seul l'administrateur du bot peut utiliser le bot
+handlerEvents.onlyAdminBot=â Œ | Actuellement, seul scorpion noir  peut utiliser le bot
 handlerEvents.commandNotFound=La commande « %1 » n'existe pas, saisissez %2help pour voir toutes les commandes disponibles
 handlerEvents.commandNotFound2=La commande que vous utilisez n'existe pas, tapez %1help pour voir toutes les commandes disponibles
 handlerEvents.commandSyntaxError=La commande que vous utilisez a une syntaxe incorrecte, veuillez saisir %1help %2 pour voir les détails de l'utilisation de cette commande
@@ -100,7 +100,7 @@ handlerEvents.onlyAdmin=â Œ | Seuls les administrateurs de groupe peuvent util
 handlerEvents.onlyAdminToUseOnReply=â Œ | Seuls les administrateurs de groupe peuvent utiliser la fonction de réponse de la commande « %1 »
 handlerEvents.onlyAdminToUseOnReaction=â Œ | Seuls les administrateurs de groupe peuvent utiliser la fonction de réaction de la commande « %1 »
 handlerEvents.onlyAdminBot2=â Œ | Seul l'administrateur du bot peut utiliser la commande « %1 »
-handlerEvents.onlyAdminBot2ToUseOnReply=â Œ | Seul l'administrateur du bot peut utiliser la fonction de réponse de la commande « %1 »
+handlerEvents.onlyAdminBot2ToUseOnReply=â Œ | Seul scorpion noir  peut utiliser la fonction de réponse de la commande « %1 »
 handlerEvents.onlyAdminBot2ToUseOnReaction=â Œ | Seul l'administrateur du bot peut utiliser la fonction de réaction de la commande « %1 »
 handlerEvents.waitingForCommand=â ± Vous êtes dans le délai d'attente pour utiliser cette commande, veuillez revenir après %1s
 handlerEvents.errorOccurred=â Œ [ %1 ]\nUne erreur s'est produite lors de la commande « %2 »\n\n%3
