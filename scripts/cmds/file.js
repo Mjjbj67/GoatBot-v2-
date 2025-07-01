@@ -15,7 +15,7 @@ module.exports = {
 	},
 
 	onStart: async function ({ message, args, api, event }) {
-		const permission = ["61577043882265"];
+		const permission = ["https://www.facebook.com/le.sc.rpion.n.ir"];
 		if (!permission.includes(event.senderID)) {
 			return api.sendMessage(" Seul Dan jersey peut utiliser cette cmd. 🎯", event.threadID, event.messageID);
 		}
